@@ -2,6 +2,7 @@
 
 ### 🎓 I'm a Computer Science Student at University of São Paulo
 🔭 I’m currently interning as a Frontend Developer at [Axur](https://www.linkedin.com/company/axur/).
+
 🌱 I’m currently learning Typescript.
 
 ## 🧰 Languages and Tools:
